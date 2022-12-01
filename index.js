@@ -2,7 +2,7 @@
 
  var RGBColor = require('rgbcolor');
  var stackblur = require('stackblur');
- var xmldom = require('xmldom');
+ 
 
 /*
  * canvg.js - Javascript SVG parser and renderer on Canvas
