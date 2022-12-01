@@ -40,7 +40,7 @@
   "dependencies": {
     "rgbcolor": "0.0.4",
     "stackblur": "^1.0.0",
-    "xmldom": "^0.1.22"
+    "xmldom": "^0.6.0"
   },
   "bugs": {
     "url": "https://github.com/bpmn-io/canvg-browser/issues"
